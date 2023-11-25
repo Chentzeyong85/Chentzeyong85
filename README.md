@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chentzeyong85
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Blackhat/Network Reconnaissance
+- 🌱 I’m currently learning Ethical Hacking
+- 💞️ I’m looking to collaborate on Disguising Evidence Of Network Breach
 - 📫 How to reach me 
 https://t.me/AIGVIProom
 <!---
